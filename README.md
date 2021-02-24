@@ -31,6 +31,7 @@ The Idea:
     * To increment ￼every second, set the frame rate to 1 frame per second and increment by one every frame
     
 Add a screenshot of your code and solution below this line:
+![image](https://user-images.githubusercontent.com/77401969/109082055-d1194b80-7735-11eb-9fa3-28539ea1fa4b.png)
     
 ## Task 3 - Analogue Clock Part 2
 Repeat the previous task and make the following changes:
