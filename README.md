@@ -15,6 +15,9 @@ That is, the shapes must resize themselves relative to the window size. No matte
 *Hint*: use width and height to determine the shapes location and size.
 
 Add a screenshot of your code and solution below this line:
+![image](https://user-images.githubusercontent.com/77401969/109064741-5b08ea80-771d-11eb-984f-2fe8a4a0b1e7.png)
+![image](https://user-images.githubusercontent.com/77401969/109064843-77a52280-771d-11eb-8438-5e78c9ef1ee1.png)
+![image](https://user-images.githubusercontent.com/77401969/109064911-8d1a4c80-771d-11eb-9815-0de4f1db8db4.png)
 
 ## Task 2 - Analogue Clock Part 1
 Write code to animate the seconds hand in a clock
