@@ -57,6 +57,8 @@ The Idea:
   - This program should be almost identical to the previous version except for a few (probably 2) statements.
 
 Add a screenshot of your code and solution below this line:
+![image](https://user-images.githubusercontent.com/77401969/109085378-1d678a00-773c-11eb-99d3-b13275e9f5cd.png)
+![image](https://user-images.githubusercontent.com/77401969/109085398-26585b80-773c-11eb-9515-de67951fde14.png)
 
 ## Task 5 - Is it a bird? Is it a plane? No it is…!
 Make your character fly from the bottom right corner of the screen to the top left corner as the animation advances. At the same time, make the limbs shake to give the illusion of fast flying. 
