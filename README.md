@@ -32,7 +32,6 @@ The Idea:
     
 Add a screenshot of your code and solution below this line:
 ![image](https://user-images.githubusercontent.com/77401969/109084644-beeddc00-773a-11eb-984a-2abaefe8b9c2.png)
-
     
 ## Task 3 - Analogue Clock Part 2
 Repeat the previous task and make the following changes:
@@ -45,8 +44,8 @@ Repeat the previous task and make the following changes:
   - Then use ￼ as before to draw the seconds hand.
 
 Add a screenshot of your code and solution below this line:
-![image](https://user-images.githubusercontent.com/77401969/109084833-1be99200-773b-11eb-834a-3279502152df.png)
-
+![image](https://user-images.githubusercontent.com/77401969/109085049-83074680-773b-11eb-8df0-45ad7d05712e.png)
+![image](https://user-images.githubusercontent.com/77401969/109085076-8ef30880-773b-11eb-8e8c-24ee5033f23e.png)
 
 ## Task 4 - Analogue Clock Part 3
 Repeat the previous exercise after changing the frame rate to 60 while maintaining the same update rate for the hands second.
